@@ -68,7 +68,7 @@ font-family: 'Kanit', sans-serif;
     .key_skills_under{
         width: 30%;
         border: 2px solid transparent;
-    border-image: linear-gradient(100deg, #EEEEEE, red, #EEEEEE);
+    border-image: linear-gradient(100deg, #EEEEEE, #50BB99, #EEEEEE);
     border-image-slice: 3;
     font-family: 'Lobster', cursive;
     }

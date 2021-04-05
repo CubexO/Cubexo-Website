@@ -22,7 +22,7 @@
   }
   .what_we_do_font_box{
         border: 5px solid transparent;
-       border-image: linear-gradient(100deg,#EEEEEE,red,#EEEEEE);
+       border-image: linear-gradient(100deg,#EEEEEE,#50BB99,#EEEEEE);
        border-image-slice: 3;
          border-left:none;
          border-bottom:none;

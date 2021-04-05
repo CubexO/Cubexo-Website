@@ -15,7 +15,7 @@
     .Address_under {
         width: 30%;
         border: 2px solid transparent;
-        border-image: linear-gradient(100deg, #1BBC9B, red, #1BBC9B);
+        border-image: linear-gradient(100deg, #1BBC9B, white, #1BBC9B);
         border-image-slice: 3;
         font-family: 'Lobster', cursive;
     }
